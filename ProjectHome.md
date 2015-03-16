@@ -1,0 +1,1 @@
+This project uses Gosu and Chipmunk and AMSTracker to demo using the mac accelerometer as a controller.
